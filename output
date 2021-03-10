@@ -1,0 +1,512 @@
+Saving results to ./ImageNet_data/
+Processing shards of  train
+Determining list of input files and labels from ./train/.
+./train/n02124075/images/*.JPEG
+./train/n04067472/images/*.JPEG
+./train/n04540053/images/*.JPEG
+./train/n04099969/images/*.JPEG
+./train/n07749582/images/*.JPEG
+./train/n01641577/images/*.JPEG
+./train/n02802426/images/*.JPEG
+./train/n09246464/images/*.JPEG
+./train/n07920052/images/*.JPEG
+./train/n03970156/images/*.JPEG
+./train/n03891332/images/*.JPEG
+./train/n02106662/images/*.JPEG
+./train/n03201208/images/*.JPEG
+./train/n02279972/images/*.JPEG
+./train/n02132136/images/*.JPEG
+./train/n04146614/images/*.JPEG
+./train/n07873807/images/*.JPEG
+./train/n02364673/images/*.JPEG
+./train/n04507155/images/*.JPEG
+./train/n03854065/images/*.JPEG
+./train/n03838899/images/*.JPEG
+./train/n03733131/images/*.JPEG
+./train/n01443537/images/*.JPEG
+./train/n07875152/images/*.JPEG
+./train/n03544143/images/*.JPEG
+./train/n09428293/images/*.JPEG
+./train/n03085013/images/*.JPEG
+./train/n02437312/images/*.JPEG
+./train/n07614500/images/*.JPEG
+./train/n03804744/images/*.JPEG
+./train/n04265275/images/*.JPEG
+./train/n02963159/images/*.JPEG
+./train/n02486410/images/*.JPEG
+./train/n01944390/images/*.JPEG
+./train/n09256479/images/*.JPEG
+./train/n02058221/images/*.JPEG
+./train/n04275548/images/*.JPEG
+./train/n02321529/images/*.JPEG
+./train/n02769748/images/*.JPEG
+./train/n02099712/images/*.JPEG
+./train/n07695742/images/*.JPEG
+./train/n02056570/images/*.JPEG
+./train/n02281406/images/*.JPEG
+./train/n01774750/images/*.JPEG
+./train/n02509815/images/*.JPEG
+./train/n03983396/images/*.JPEG
+./train/n07753592/images/*.JPEG
+./train/n04254777/images/*.JPEG
+./train/n02233338/images/*.JPEG
+./train/n04008634/images/*.JPEG
+./train/n02823428/images/*.JPEG
+./train/n02236044/images/*.JPEG
+./train/n03393912/images/*.JPEG
+./train/n07583066/images/*.JPEG
+./train/n04074963/images/*.JPEG
+./train/n01629819/images/*.JPEG
+./train/n09332890/images/*.JPEG
+./train/n02481823/images/*.JPEG
+./train/n03902125/images/*.JPEG
+./train/n03404251/images/*.JPEG
+./train/n09193705/images/*.JPEG
+./train/n03637318/images/*.JPEG
+./train/n04456115/images/*.JPEG
+./train/n02666196/images/*.JPEG
+./train/n03796401/images/*.JPEG
+./train/n02795169/images/*.JPEG
+./train/n02123045/images/*.JPEG
+./train/n01855672/images/*.JPEG
+./train/n01882714/images/*.JPEG
+./train/n02917067/images/*.JPEG
+./train/n02988304/images/*.JPEG
+./train/n04398044/images/*.JPEG
+./train/n02843684/images/*.JPEG
+./train/n02423022/images/*.JPEG
+./train/n02669723/images/*.JPEG
+./train/n04465501/images/*.JPEG
+./train/n02165456/images/*.JPEG
+./train/n03770439/images/*.JPEG
+./train/n02099601/images/*.JPEG
+./train/n04486054/images/*.JPEG
+./train/n02950826/images/*.JPEG
+./train/n03814639/images/*.JPEG
+./train/n04259630/images/*.JPEG
+./train/n03424325/images/*.JPEG
+./train/n02948072/images/*.JPEG
+./train/n03179701/images/*.JPEG
+./train/n03400231/images/*.JPEG
+./train/n02206856/images/*.JPEG
+./train/n03160309/images/*.JPEG
+./train/n01984695/images/*.JPEG
+./train/n03977966/images/*.JPEG
+./train/n03584254/images/*.JPEG
+./train/n04023962/images/*.JPEG
+./train/n02814860/images/*.JPEG
+./train/n01910747/images/*.JPEG
+./train/n04596742/images/*.JPEG
+./train/n03992509/images/*.JPEG
+./train/n04133789/images/*.JPEG
+./train/n03937543/images/*.JPEG
+./train/n02927161/images/*.JPEG
+Finished finding files in 100 of 200 classes.
+./train/n01945685/images/*.JPEG
+./train/n02395406/images/*.JPEG
+./train/n02125311/images/*.JPEG
+./train/n03126707/images/*.JPEG
+./train/n04532106/images/*.JPEG
+./train/n02268443/images/*.JPEG
+./train/n02977058/images/*.JPEG
+./train/n07734744/images/*.JPEG
+./train/n03599486/images/*.JPEG
+./train/n04562935/images/*.JPEG
+./train/n03014705/images/*.JPEG
+./train/n04251144/images/*.JPEG
+./train/n04356056/images/*.JPEG
+./train/n02190166/images/*.JPEG
+./train/n03670208/images/*.JPEG
+./train/n02002724/images/*.JPEG
+./train/n02074367/images/*.JPEG
+./train/n04285008/images/*.JPEG
+./train/n04560804/images/*.JPEG
+./train/n04366367/images/*.JPEG
+./train/n02403003/images/*.JPEG
+./train/n07615774/images/*.JPEG
+./train/n04501370/images/*.JPEG
+./train/n03026506/images/*.JPEG
+./train/n02906734/images/*.JPEG
+./train/n01770393/images/*.JPEG
+./train/n04597913/images/*.JPEG
+./train/n03930313/images/*.JPEG
+./train/n04118538/images/*.JPEG
+./train/n04179913/images/*.JPEG
+./train/n04311004/images/*.JPEG
+./train/n02123394/images/*.JPEG
+./train/n04070727/images/*.JPEG
+./train/n02793495/images/*.JPEG
+./train/n02730930/images/*.JPEG
+./train/n02094433/images/*.JPEG
+./train/n04371430/images/*.JPEG
+./train/n04328186/images/*.JPEG
+./train/n03649909/images/*.JPEG
+./train/n04417672/images/*.JPEG
+./train/n03388043/images/*.JPEG
+./train/n01774384/images/*.JPEG
+./train/n02837789/images/*.JPEG
+./train/n07579787/images/*.JPEG
+./train/n04399382/images/*.JPEG
+./train/n02791270/images/*.JPEG
+./train/n03089624/images/*.JPEG
+./train/n02814533/images/*.JPEG
+./train/n04149813/images/*.JPEG
+./train/n07747607/images/*.JPEG
+./train/n03355925/images/*.JPEG
+./train/n01983481/images/*.JPEG
+./train/n04487081/images/*.JPEG
+./train/n03250847/images/*.JPEG
+./train/n03255030/images/*.JPEG
+./train/n02892201/images/*.JPEG
+./train/n02883205/images/*.JPEG
+./train/n03100240/images/*.JPEG
+./train/n02415577/images/*.JPEG
+./train/n02480495/images/*.JPEG
+./train/n01698640/images/*.JPEG
+./train/n01784675/images/*.JPEG
+./train/n04376876/images/*.JPEG
+./train/n03444034/images/*.JPEG
+./train/n01917289/images/*.JPEG
+./train/n01950731/images/*.JPEG
+./train/n03042490/images/*.JPEG
+./train/n07711569/images/*.JPEG
+./train/n04532670/images/*.JPEG
+./train/n03763968/images/*.JPEG
+./train/n07768694/images/*.JPEG
+./train/n02999410/images/*.JPEG
+./train/n03617480/images/*.JPEG
+./train/n06596364/images/*.JPEG
+./train/n01768244/images/*.JPEG
+./train/n02410509/images/*.JPEG
+./train/n03976657/images/*.JPEG
+./train/n01742172/images/*.JPEG
+./train/n03980874/images/*.JPEG
+./train/n02808440/images/*.JPEG
+./train/n02226429/images/*.JPEG
+./train/n02231487/images/*.JPEG
+./train/n02085620/images/*.JPEG
+./train/n01644900/images/*.JPEG
+./train/n02129165/images/*.JPEG
+./train/n02699494/images/*.JPEG
+./train/n03837869/images/*.JPEG
+./train/n02815834/images/*.JPEG
+./train/n07720875/images/*.JPEG
+./train/n02788148/images/*.JPEG
+./train/n02909870/images/*.JPEG
+./train/n03706229/images/*.JPEG
+./train/n07871810/images/*.JPEG
+./train/n03447447/images/*.JPEG
+./train/n02113799/images/*.JPEG
+./train/n12267677/images/*.JPEG
+./train/n03662601/images/*.JPEG
+./train/n02841315/images/*.JPEG
+./train/n07715103/images/*.JPEG
+./train/n02504458/images/*.JPEG
+Finished finding files in 200 of 200 classes.
+Found 100000 JPEG files across 200 labels inside ./train/.
+Launching 100 threads for spacings: [[0, 1000], [1000, 2000], [2000, 3000], [3000, 4000], [4000, 5000], [5000, 6000], [6000, 7000], [7000, 8000], [8000, 9000], [9000, 10000], [10000, 11000], [11000, 12000], [12000, 13000], [13000, 14000], [14000, 15000], [15000, 16000], [16000, 17000], [17000, 18000], [18000, 19000], [19000, 20000], [20000, 21000], [21000, 22000], [22000, 23000], [23000, 24000], [24000, 25000], [25000, 26000], [26000, 27000], [27000, 28000], [28000, 29000], [29000, 30000], [30000, 31000], [31000, 32000], [32000, 33000], [33000, 34000], [34000, 35000], [35000, 36000], [36000, 37000], [37000, 38000], [38000, 39000], [39000, 40000], [40000, 41000], [41000, 42000], [42000, 43000], [43000, 44000], [44000, 45000], [45000, 46000], [46000, 47000], [47000, 48000], [48000, 49000], [49000, 50000], [50000, 51000], [51000, 52000], [52000, 53000], [53000, 54000], [54000, 55000], [55000, 56000], [56000, 57000], [57000, 58000], [58000, 59000], [59000, 60000], [60000, 61000], [61000, 62000], [62000, 63000], [63000, 64000], [64000, 65000], [65000, 66000], [66000, 67000], [67000, 68000], [68000, 69000], [69000, 70000], [70000, 71000], [71000, 72000], [72000, 73000], [73000, 74000], [74000, 75000], [75000, 76000], [76000, 77000], [77000, 78000], [78000, 79000], [79000, 80000], [80000, 81000], [81000, 82000], [82000, 83000], [83000, 84000], [84000, 85000], [85000, 86000], [86000, 87000], [87000, 88000], [88000, 89000], [89000, 90000], [90000, 91000], [91000, 92000], [92000, 93000], [93000, 94000], [94000, 95000], [95000, 96000], [96000, 97000], [97000, 98000], [98000, 99000], [99000, 100000]]
+2021-03-10 21:51:03.650480: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2021-03-10 21:51:03.650516: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2021-03-10 21:51:03.650524: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2021-03-10 21:51:03.650530: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2021-03-10 21:52:05.187514 [thread 4]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.189023 [thread 4]: Wrote 1000 images to ./ImageNet_data/train-00004-of-00100
+2021-03-10 21:52:05.189127 [thread 4]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.394962 [thread 30]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.395513 [thread 30]: Wrote 1000 images to ./ImageNet_data/train-00030-of-00100
+2021-03-10 21:52:05.395757 [thread 30]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.421256 [thread 8]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.421702 [thread 8]: Wrote 1000 images to ./ImageNet_data/train-00008-of-00100
+2021-03-10 21:52:05.422617 [thread 8]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.599298 [thread 85]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.603723 [thread 85]: Wrote 1000 images to ./ImageNet_data/train-00085-of-00100
+2021-03-10 21:52:05.604218 [thread 85]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.701632 [thread 97]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.702372 [thread 97]: Wrote 1000 images to ./ImageNet_data/train-00097-of-00100
+2021-03-10 21:52:05.702940 [thread 97]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.703000 [thread 2]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.703244 [thread 2]: Wrote 1000 images to ./ImageNet_data/train-00002-of-00100
+2021-03-10 21:52:05.703657 [thread 2]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.784075 [thread 96]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.784513 [thread 96]: Wrote 1000 images to ./ImageNet_data/train-00096-of-00100
+2021-03-10 21:52:05.786954 [thread 96]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.826255 [thread 11]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.826635 [thread 11]: Wrote 1000 images to ./ImageNet_data/train-00011-of-00100
+2021-03-10 21:52:05.828061 [thread 11]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:05.918754 [thread 28]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:05.925249 [thread 28]: Wrote 1000 images to ./ImageNet_data/train-00028-of-00100
+2021-03-10 21:52:05.925355 [thread 28]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.310676 [thread 23]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.311211 [thread 23]: Wrote 1000 images to ./ImageNet_data/train-00023-of-00100
+2021-03-10 21:52:06.312341 [thread 23]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.405986 [thread 17]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.406303 [thread 17]: Wrote 1000 images to ./ImageNet_data/train-00017-of-00100
+2021-03-10 21:52:06.406773 [thread 17]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.491731 [thread 3]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.492010 [thread 3]: Wrote 1000 images to ./ImageNet_data/train-00003-of-00100
+2021-03-10 21:52:06.492406 [thread 3]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.526946 [thread 15]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.529729 [thread 15]: Wrote 1000 images to ./ImageNet_data/train-00015-of-00100
+2021-03-10 21:52:06.530136 [thread 15]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.536865 [thread 77]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.537511 [thread 77]: Wrote 1000 images to ./ImageNet_data/train-00077-of-00100
+2021-03-10 21:52:06.538541 [thread 77]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.543200 [thread 75]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.543598 [thread 75]: Wrote 1000 images to ./ImageNet_data/train-00075-of-00100
+2021-03-10 21:52:06.544256 [thread 75]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.550318 [thread 44]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.555797 [thread 44]: Wrote 1000 images to ./ImageNet_data/train-00044-of-00100
+2021-03-10 21:52:06.556228 [thread 44]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.567717 [thread 58]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.569982 [thread 76]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.570188 [thread 58]: Wrote 1000 images to ./ImageNet_data/train-00058-of-00100
+2021-03-10 21:52:06.570846 [thread 76]: Wrote 1000 images to ./ImageNet_data/train-00076-of-00100
+2021-03-10 21:52:06.571040 [thread 58]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.571158 [thread 76]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.620940 [thread 24]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.622085 [thread 24]: Wrote 1000 images to ./ImageNet_data/train-00024-of-00100
+2021-03-10 21:52:06.622985 [thread 24]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.627487 [thread 67]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.629345 [thread 67]: Wrote 1000 images to ./ImageNet_data/train-00067-of-00100
+2021-03-10 21:52:06.630076 [thread 67]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.634231 [thread 55]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.635447 [thread 55]: Wrote 1000 images to ./ImageNet_data/train-00055-of-00100
+2021-03-10 21:52:06.635933 [thread 55]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.638995 [thread 35]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.639399 [thread 35]: Wrote 1000 images to ./ImageNet_data/train-00035-of-00100
+2021-03-10 21:52:06.639526 [thread 35]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.643459 [thread 72]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.644042 [thread 72]: Wrote 1000 images to ./ImageNet_data/train-00072-of-00100
+2021-03-10 21:52:06.644694 [thread 72]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.646721 [thread 39]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.647225 [thread 86]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.647689 [thread 39]: Wrote 1000 images to ./ImageNet_data/train-00039-of-00100
+2021-03-10 21:52:06.647935 [thread 86]: Wrote 1000 images to ./ImageNet_data/train-00086-of-00100
+2021-03-10 21:52:06.648208 [thread 39]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.648336 [thread 86]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.657094 [thread 36]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.657552 [thread 92]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.658127 [thread 92]: Wrote 1000 images to ./ImageNet_data/train-00092-of-00100
+2021-03-10 21:52:06.658414 [thread 36]: Wrote 1000 images to ./ImageNet_data/train-00036-of-00100
+2021-03-10 21:52:06.659804 [thread 92]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.659850 [thread 36]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.662859 [thread 90]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.665498 [thread 90]: Wrote 1000 images to ./ImageNet_data/train-00090-of-00100
+2021-03-10 21:52:06.666242 [thread 90]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.696762 [thread 88]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.697466 [thread 88]: Wrote 1000 images to ./ImageNet_data/train-00088-of-00100
+2021-03-10 21:52:06.697886 [thread 88]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.698746 [thread 45]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.699331 [thread 45]: Wrote 1000 images to ./ImageNet_data/train-00045-of-00100
+2021-03-10 21:52:06.699455 [thread 45]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.700443 [thread 20]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.702046 [thread 20]: Wrote 1000 images to ./ImageNet_data/train-00020-of-00100
+2021-03-10 21:52:06.702103 [thread 25]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.702534 [thread 20]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.702581 [thread 25]: Wrote 1000 images to ./ImageNet_data/train-00025-of-00100
+2021-03-10 21:52:06.702893 [thread 25]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.704513 [thread 94]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.705719 [thread 94]: Wrote 1000 images to ./ImageNet_data/train-00094-of-00100
+2021-03-10 21:52:06.705957 [thread 94]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.706443 [thread 74]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.706470 [thread 48]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.706706 [thread 74]: Wrote 1000 images to ./ImageNet_data/train-00074-of-00100
+2021-03-10 21:52:06.706981 [thread 74]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.708055 [thread 48]: Wrote 1000 images to ./ImageNet_data/train-00048-of-00100
+2021-03-10 21:52:06.708944 [thread 48]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.713353 [thread 50]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.714592 [thread 50]: Wrote 1000 images to ./ImageNet_data/train-00050-of-00100
+2021-03-10 21:52:06.714638 [thread 50]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.715587 [thread 79]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.715988 [thread 42]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.716616 [thread 79]: Wrote 1000 images to ./ImageNet_data/train-00079-of-00100
+2021-03-10 21:52:06.716805 [thread 42]: Wrote 1000 images to ./ImageNet_data/train-00042-of-00100
+2021-03-10 21:52:06.716881 [thread 42]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.716914 [thread 79]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.719520 [thread 29]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.721445 [thread 29]: Wrote 1000 images to ./ImageNet_data/train-00029-of-00100
+2021-03-10 21:52:06.722357 [thread 29]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.727301 [thread 49]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.728068 [thread 49]: Wrote 1000 images to ./ImageNet_data/train-00049-of-00100
+2021-03-10 21:52:06.728434 [thread 49]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.758322 [thread 31]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.763399 [thread 65]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.763752 [thread 31]: Wrote 1000 images to ./ImageNet_data/train-00031-of-00100
+2021-03-10 21:52:06.764978 [thread 65]: Wrote 1000 images to ./ImageNet_data/train-00065-of-00100
+2021-03-10 21:52:06.765252 [thread 31]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.766924 [thread 65]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.769141 [thread 62]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.769475 [thread 62]: Wrote 1000 images to ./ImageNet_data/train-00062-of-00100
+2021-03-10 21:52:06.769923 [thread 57]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.771013 [thread 60]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.771281 [thread 60]: Wrote 1000 images to ./ImageNet_data/train-00060-of-00100
+2021-03-10 21:52:06.772113 [thread 62]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.772156 [thread 60]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.774182 [thread 57]: Wrote 1000 images to ./ImageNet_data/train-00057-of-00100
+2021-03-10 21:52:06.775607 [thread 57]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.777722 [thread 83]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.778215 [thread 83]: Wrote 1000 images to ./ImageNet_data/train-00083-of-00100
+2021-03-10 21:52:06.778634 [thread 83]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.779393 [thread 68]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.779856 [thread 68]: Wrote 1000 images to ./ImageNet_data/train-00068-of-00100
+2021-03-10 21:52:06.781082 [thread 56]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.781537 [thread 68]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.781880 [thread 56]: Wrote 1000 images to ./ImageNet_data/train-00056-of-00100
+2021-03-10 21:52:06.782260 [thread 47]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.782675 [thread 47]: Wrote 1000 images to ./ImageNet_data/train-00047-of-00100
+2021-03-10 21:52:06.782734 [thread 47]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.782795 [thread 56]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.784543 [thread 41]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.784855 [thread 41]: Wrote 1000 images to ./ImageNet_data/train-00041-of-00100
+2021-03-10 21:52:06.785722 [thread 73]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.785746 [thread 41]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.786230 [thread 73]: Wrote 1000 images to ./ImageNet_data/train-00073-of-00100
+2021-03-10 21:52:06.786478 [thread 73]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.789095 [thread 87]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.789520 [thread 87]: Wrote 1000 images to ./ImageNet_data/train-00087-of-00100
+2021-03-10 21:52:06.789608 [thread 87]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.791758 [thread 98]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.791814 [thread 18]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.792168 [thread 18]: Wrote 1000 images to ./ImageNet_data/train-00018-of-00100
+2021-03-10 21:52:06.792782 [thread 98]: Wrote 1000 images to ./ImageNet_data/train-00098-of-00100
+2021-03-10 21:52:06.792810 [thread 18]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.792837 [thread 98]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.829855 [thread 12]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.831361 [thread 12]: Wrote 1000 images to ./ImageNet_data/train-00012-of-00100
+2021-03-10 21:52:06.831907 [thread 12]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.842966 [thread 64]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.843461 [thread 71]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.843930 [thread 71]: Wrote 1000 images to ./ImageNet_data/train-00071-of-00100
+2021-03-10 21:52:06.844055 [thread 71]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.844109 [thread 64]: Wrote 1000 images to ./ImageNet_data/train-00064-of-00100
+2021-03-10 21:52:06.844324 [thread 64]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.848358 [thread 89]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.848595 [thread 46]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.849319 [thread 89]: Wrote 1000 images to ./ImageNet_data/train-00089-of-00100
+2021-03-10 21:52:06.851186 [thread 89]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.851555 [thread 46]: Wrote 1000 images to ./ImageNet_data/train-00046-of-00100
+2021-03-10 21:52:06.853370 [thread 46]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.856450 [thread 33]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.856766 [thread 33]: Wrote 1000 images to ./ImageNet_data/train-00033-of-00100
+2021-03-10 21:52:06.857308 [thread 33]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.859545 [thread 81]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.860090 [thread 54]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.860608 [thread 81]: Wrote 1000 images to ./ImageNet_data/train-00081-of-00100
+2021-03-10 21:52:06.861486 [thread 54]: Wrote 1000 images to ./ImageNet_data/train-00054-of-00100
+2021-03-10 21:52:06.861958 [thread 81]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.862209 [thread 54]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.863662 [thread 78]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.864257 [thread 78]: Wrote 1000 images to ./ImageNet_data/train-00078-of-00100
+2021-03-10 21:52:06.864833 [thread 78]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.868250 [thread 99]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.868657 [thread 99]: Wrote 1000 images to ./ImageNet_data/train-00099-of-00100
+2021-03-10 21:52:06.869389 [thread 95]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.869424 [thread 84]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.869457 [thread 99]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.869771 [thread 95]: Wrote 1000 images to ./ImageNet_data/train-00095-of-00100
+2021-03-10 21:52:06.870056 [thread 84]: Wrote 1000 images to ./ImageNet_data/train-00084-of-00100
+2021-03-10 21:52:06.870087 [thread 95]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.870654 [thread 84]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.871076 [thread 14]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.871310 [thread 14]: Wrote 1000 images to ./ImageNet_data/train-00014-of-00100
+2021-03-10 21:52:06.871416 [thread 14]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.877006 [thread 91]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.877600 [thread 61]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.878224 [thread 61]: Wrote 1000 images to ./ImageNet_data/train-00061-of-00100
+2021-03-10 21:52:06.878531 [thread 61]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.879455 [thread 91]: Wrote 1000 images to ./ImageNet_data/train-00091-of-00100
+2021-03-10 21:52:06.880152 [thread 93]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.880227 [thread 91]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.880361 [thread 93]: Wrote 1000 images to ./ImageNet_data/train-00093-of-00100
+2021-03-10 21:52:06.880564 [thread 16]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.880634 [thread 93]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.881624 [thread 16]: Wrote 1000 images to ./ImageNet_data/train-00016-of-00100
+2021-03-10 21:52:06.882366 [thread 16]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.883124 [thread 22]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.884866 [thread 22]: Wrote 1000 images to ./ImageNet_data/train-00022-of-00100
+2021-03-10 21:52:06.885477 [thread 59]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.885501 [thread 22]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.885923 [thread 59]: Wrote 1000 images to ./ImageNet_data/train-00059-of-00100
+2021-03-10 21:52:06.886239 [thread 59]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.887818 [thread 63]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.888260 [thread 34]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.888330 [thread 63]: Wrote 1000 images to ./ImageNet_data/train-00063-of-00100
+2021-03-10 21:52:06.888550 [thread 69]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.888958 [thread 69]: Wrote 1000 images to ./ImageNet_data/train-00069-of-00100
+2021-03-10 21:52:06.889001 [thread 63]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.889254 [thread 34]: Wrote 1000 images to ./ImageNet_data/train-00034-of-00100
+2021-03-10 21:52:06.889305 [thread 34]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.889328 [thread 69]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.891404 [thread 19]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.891461 [thread 40]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.891687 [thread 19]: Wrote 1000 images to ./ImageNet_data/train-00019-of-00100
+2021-03-10 21:52:06.891877 [thread 40]: Wrote 1000 images to ./ImageNet_data/train-00040-of-00100
+2021-03-10 21:52:06.891935 [thread 40]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.892060 [thread 19]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.892877 [thread 66]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.893255 [thread 66]: Wrote 1000 images to ./ImageNet_data/train-00066-of-00100
+2021-03-10 21:52:06.893304 [thread 66]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.917878 [thread 80]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.918771 [thread 80]: Wrote 1000 images to ./ImageNet_data/train-00080-of-00100
+2021-03-10 21:52:06.919353 [thread 80]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.924715 [thread 32]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.925686 [thread 13]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.925880 [thread 32]: Wrote 1000 images to ./ImageNet_data/train-00032-of-00100
+2021-03-10 21:52:06.926380 [thread 13]: Wrote 1000 images to ./ImageNet_data/train-00013-of-00100
+2021-03-10 21:52:06.926544 [thread 32]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.926883 [thread 9]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.926904 [thread 13]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.927613 [thread 9]: Wrote 1000 images to ./ImageNet_data/train-00009-of-00100
+2021-03-10 21:52:06.927687 [thread 9]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.927706 [thread 0]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.927996 [thread 0]: Wrote 1000 images to ./ImageNet_data/train-00000-of-00100
+2021-03-10 21:52:06.928144 [thread 0]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.931406 [thread 53]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.932065 [thread 53]: Wrote 1000 images to ./ImageNet_data/train-00053-of-00100
+2021-03-10 21:52:06.932303 [thread 53]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.932626 [thread 26]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.932786 [thread 26]: Wrote 1000 images to ./ImageNet_data/train-00026-of-00100
+2021-03-10 21:52:06.932804 [thread 26]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.955205 [thread 82]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.955483 [thread 82]: Wrote 1000 images to ./ImageNet_data/train-00082-of-00100
+2021-03-10 21:52:06.955739 [thread 82]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.956119 [thread 51]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.956409 [thread 43]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.956809 [thread 51]: Wrote 1000 images to ./ImageNet_data/train-00051-of-00100
+2021-03-10 21:52:06.956834 [thread 70]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.956897 [thread 51]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.957262 [thread 70]: Wrote 1000 images to ./ImageNet_data/train-00070-of-00100
+2021-03-10 21:52:06.957658 [thread 43]: Wrote 1000 images to ./ImageNet_data/train-00043-of-00100
+2021-03-10 21:52:06.957741 [thread 43]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.958132 [thread 70]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.959750 [thread 52]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.959922 [thread 52]: Wrote 1000 images to ./ImageNet_data/train-00052-of-00100
+2021-03-10 21:52:06.960690 [thread 52]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.960711 [thread 10]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.960983 [thread 10]: Wrote 1000 images to ./ImageNet_data/train-00010-of-00100
+2021-03-10 21:52:06.961004 [thread 10]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.970676 [thread 38]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.971141 [thread 38]: Wrote 1000 images to ./ImageNet_data/train-00038-of-00100
+2021-03-10 21:52:06.971710 [thread 38]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.972225 [thread 6]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.972927 [thread 6]: Wrote 1000 images to ./ImageNet_data/train-00006-of-00100
+2021-03-10 21:52:06.973114 [thread 6]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.974091 [thread 7]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.974277 [thread 7]: Wrote 1000 images to ./ImageNet_data/train-00007-of-00100
+2021-03-10 21:52:06.974294 [thread 7]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.983551 [thread 37]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.983840 [thread 37]: Wrote 1000 images to ./ImageNet_data/train-00037-of-00100
+2021-03-10 21:52:06.983931 [thread 37]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.984573 [thread 5]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.985085 [thread 27]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.985267 [thread 5]: Wrote 1000 images to ./ImageNet_data/train-00005-of-00100
+2021-03-10 21:52:06.985463 [thread 27]: Wrote 1000 images to ./ImageNet_data/train-00027-of-00100
+2021-03-10 21:52:06.985492 [thread 5]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.985530 [thread 27]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:06.992505 [thread 1]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:06.992687 [thread 1]: Wrote 1000 images to ./ImageNet_data/train-00001-of-00100
+2021-03-10 21:52:06.992707 [thread 1]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:07.005396 [thread 21]: Processed 1000 of 1000 images in thread batch.
+2021-03-10 21:52:07.005632 [thread 21]: Wrote 1000 images to ./ImageNet_data/train-00021-of-00100
+2021-03-10 21:52:07.005658 [thread 21]: Wrote 1000 images to 1000 shards.
+2021-03-10 21:52:07.930203: Finished writing all 100000 images in data set.
