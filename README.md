@@ -1,7 +1,7 @@
 # ImageNet_images_to_TFRecords
 This repository converts the raw .JPEG images in ImageNet data to TFRecord files format.
 - [Dataset](#Dataset)
-- [Utility of Script](#Utility of Script)
+- [Utility of Script](#Utility_of_Script)
 
 # Dataset:
 Raw image files are located in following directory structure:
