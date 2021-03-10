@@ -1,6 +1,6 @@
 # ImageNet_Images_to_TFRecords
 This repository converts the raw .JPEG images in ImageNet data to TFRecord files format.
-``python build_tfrecords_from_images.py &> output``
+* ``python build_tfrecords_from_images.py &> output``
 - [Dataset](#Dataset)
 - [Utility of Script](#Utility_of_Script)
 
